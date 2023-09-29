@@ -2,6 +2,8 @@
 
 testing and prompt engineering docqa
 
+🦉 https://huggingface.co/spaces/nimbleuser/docquery
+
 ## Pre Installation
 
 - install software listed in packages.txt
